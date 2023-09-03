@@ -32,4 +32,4 @@ def merge_var(var):
                                        var:{'dtype': 'float32'}})
 
 merge_var('count')
-merge_var('FRP')
+merge_var('frp')
